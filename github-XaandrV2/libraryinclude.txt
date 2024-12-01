@@ -1,0 +1,14 @@
+IRremoteESP8266 at version 2.8.6
+rc-switch at version 2.6.4
+RF24 at version 1.4.10
+SmartRC-CC1101-Driver-Lib at version 2.5.7
+RadioLib at version 7.1.0
+U8g2 at version 2.35.30
+ArduinoMenu library at version 4.21.4
+RemoteSensor at version 1.0.3
+PCF8574 at version 0.4.1
+NewRemoteSwitch-master
+AsyncTCP at version 1.1.4
+NimBLE-Arduino at version 1.4.2
+BLE at version 2.0.0
+ESP32-BLE-Keyboard at version 0.3.0

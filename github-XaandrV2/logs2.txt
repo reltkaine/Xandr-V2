@@ -1,0 +1,36 @@
+Multiple libraries were found for "Preferences.h"
+  Used: C:\Users\ruvic101\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.17\libraries\Preferences
+  Not used: C:\Users\ruvic101\Documents\Arduino\libraries\Preferences
+Multiple libraries were found for "SD.h"
+  Used: C:\Users\ruvic101\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.17\libraries\SD
+  Not used: C:\Users\ruvic101\Documents\Arduino\libraries\SD
+Multiple libraries were found for "PCF8574.h"
+  Used: C:\Users\ruvic101\Documents\Arduino\libraries\PCF8574
+  Not used: C:\Users\ruvic101\Documents\Arduino\libraries\PCF8574_library
+Multiple libraries were found for "WiFi.h"
+  Used: C:\Users\ruvic101\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.17\libraries\WiFi
+  Not used: C:\Users\ruvic101\Documents\Arduino\libraries\WiFiEspAT
+  Not used: C:\Users\ruvic101\Documents\Arduino\libraries\WiFiNINA
+Using library FS at version 2.0.0 in folder: C:\Users\ruvic101\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.17\libraries\FS 
+Using library SD at version 2.0.0 in folder: C:\Users\ruvic101\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.17\libraries\SD 
+Using library SPI at version 2.0.0 in folder: C:\Users\ruvic101\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.17\libraries\SPI 
+Using library RF24 at version 1.4.10 in folder: C:\Users\ruvic101\Documents\Arduino\libraries\RF24 
+Using library PCF8574 at version 0.4.1 in folder: C:\Users\ruvic101\Documents\Arduino\libraries\PCF8574 
+Using library Wire at version 2.0.0 in folder: C:\Users\ruvic101\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.17\libraries\Wire 
+Using library WiFi at version 2.0.0 in folder: C:\Users\ruvic101\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.17\libraries\WiFi 
+Using library AsyncTCP at version 1.1.4 in folder: C:\Users\ruvic101\Documents\Arduino\libraries\AsyncTCP 
+Using library SPIFFS at version 2.0.0 in folder: C:\Users\ruvic101\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.17\libraries\SPIFFS 
+Using library DNSServer at version 2.0.0 in folder: C:\Users\ruvic101\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.17\libraries\DNSServer 
+Using library ESPmDNS at version 2.0.0 in folder: C:\Users\ruvic101\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.17\libraries\ESPmDNS 
+Using library RemoteSensor at version 1.0.3 in folder: C:\Users\ruvic101\Documents\Arduino\libraries\RemoteSensor 
+Using library NewRemoteSwitch-master in folder: C:\Users\ruvic101\Documents\Arduino\libraries\NewRemoteSwitch-master (legacy)
+Using library ArduinoMenu library at version 4.21.4 in folder: C:\Users\ruvic101\Documents\Arduino\libraries\ArduinoMenu_library 
+Using library U8g2 at version 2.35.30 in folder: C:\Users\ruvic101\Documents\Arduino\libraries\U8g2 
+Using library RadioLib at version 7.1.0 in folder: C:\Users\ruvic101\Documents\Arduino\libraries\RadioLib 
+Using library SmartRC-CC1101-Driver-Lib at version 2.5.7 in folder: C:\Users\ruvic101\Documents\Arduino\libraries\SmartRC-CC1101-Driver-Lib 
+Using library rc-switch at version 2.6.4 in folder: C:\Users\ruvic101\Documents\Arduino\libraries\rc-switch 
+Using library Preferences at version 2.0.0 in folder: C:\Users\ruvic101\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.17\libraries\Preferences 
+Using library USB at version 2.0.0 in folder: C:\Users\ruvic101\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.17\libraries\USB 
+Using library IRremoteESP8266 at version 2.8.6 in folder: C:\Users\ruvic101\Documents\Arduino\libraries\IRremoteESP8266 
+Using library SD_MMC at version 2.0.0 in folder: C:\Users\ruvic101\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.17\libraries\SD_MMC 
+Using library WebServer at version 2.0.0 in folder: C:\Users\ruvic101\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.17\libraries\WebServer 
