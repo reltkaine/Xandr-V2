@@ -18,6 +18,12 @@ Inside "Xandr Files" Folder copy "html" folder to SDCard this is for Captive Por
 Sample for BADUSB script also available like "string.txt"
 
 
+check the picture for some Build Guide.....
+
+
+Details for library needed check file "libraryinclude.txt" for the list
+
+
 Install both Arduino 1.8 and Arduino 2 IDE
 
 Install esp32 by Espressif System 2.0.17 not version 3.......
