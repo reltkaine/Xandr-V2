@@ -14,6 +14,9 @@ https://www.pcbway.com/project/shareproject/Xandr_v2_Pentesting_Tool_29349d63.ht
 
 <a href="https://www.pcbway.com/project/shareproject/Xandr_v2_Pentesting_Tool_29349d63.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
+Inside "Xandr Files" Folder copy "html" folder to SDCard this is for Captive Portal
+Sample for BADUSB script also available like "string.txt"
+
 
 Install both Arduino 1.8 and Arduino 2 IDE
 
