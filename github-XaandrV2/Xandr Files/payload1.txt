@@ -1,0 +1,19 @@
+Rem: Run calculator and perform some calculation
+Rem calculation
+PrintLine: HELLOE
+PrintLine midodkf
+STRING GOOBYE
+STRING
+asadad
+adadaa
+END_STRING
+ENTER
+SPACE
+STRING evilBYE
+STRING GOOBYE
+STRINGLN
+XRF
+YTGAQW
+adadaa
+END_STRINGLN
+GUI r

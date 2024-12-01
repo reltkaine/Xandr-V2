@@ -1,0 +1,6 @@
+DELAY 100
+STRING Hello students!
+DELAY 100
+STRING Hello students!
+DELAY 100
+STRING GOODBYE!

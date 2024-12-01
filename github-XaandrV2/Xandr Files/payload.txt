@@ -1,0 +1,7 @@
+REM This only works against a Windows victim!
+GUI r
+DELAY 100
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING Hello students!
