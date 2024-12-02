@@ -59,8 +59,9 @@ ESP32 S2 MINI/ESP32 LOLIN LITE
 
 NRF24L01
 
-CC1101
-
+CC1101 RED/BLUE
+https://techfun.sk/en/product/cc1101-communication-module-433-mhz/
+https://ripplesecurity.com.au/products/433mhz-cc1101-rf-transceiver-module-for-arduino
 IR Reciever&Transmitter
 
 OLED SH1106
