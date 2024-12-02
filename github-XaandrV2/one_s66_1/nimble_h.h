@@ -1,6 +1,11 @@
 
 #ifdef CONFIG_IDF_TARGET_ESP32S2  //8888888888888888888888888888888888888888888888888     esp32s2
 #include <Arduino.h>
+void advertiseEveryoneRender(String s)
+{
+  Serial.println("NO BLUETOOTH");
+  return 0;
+}
 bool destroy(){
   Serial.println("NO BLUETOOTH");
   return 0;
@@ -894,20 +899,12 @@ bool toggleAdvertiseEveryone() {
   return advertise_everyone;
 }
 
-void advertiseEveryoneRender() {
-  //  if (circle_size > 50)
-  //    circle_size = 1;
-
-  //   int x = M5.Lcd.width() / 2;
-  //   int y = M5.Lcd.height() / 2;
-
-  //   M5.Lcd.fillCircle(x, y, 100, BLACK);
-  //   for (int i = 1; i <= 4; i++) {
-  //     if (circle_size != 0)
-  //       M5.Lcd.drawCircle(x, y, circle_size / i, BLUE);
-  //   }
-
-  //    circle_size += 15;
+void advertiseEveryoneRender(String s) {
+ display.clearBuffer();
+  display.setCursor(20, 10);
+  display.print(s);
+  display.sendBuffer();
+  
 }
 
 

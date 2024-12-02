@@ -387,6 +387,7 @@ mainMenu[0].disable();  ///wala
 bool n_exit = 1;
 
     init_nim();  //xxx
+    advertiseEveryoneRender("ALL BLE SPAM");
     while (n_exit) {
       BTLE_JAM_nim();  //xx
       if (readButtonStateY(BTN_Y)) {
@@ -417,6 +418,7 @@ bool n_exit = 1;
     bool n_exit = 1;
 
     init_nim();  //xxx
+    advertiseEveryoneRender("SAMSUNG BLE SPAM");
     while (n_exit) {
       advertiseSamsung();  //xx
       if (readButtonStateY(BTN_Y)) {
@@ -445,6 +447,7 @@ bool n_exit = 1;
     bool n_exit = 1;
 
     init_nim();  //xxx
+    advertiseEveryoneRender("WINDOW BLE SPAM");
     while (n_exit) {
       advertiseMicrosoft();  //xx
       if (readButtonStateY(BTN_Y)) {
@@ -476,6 +479,7 @@ bool n_exit = 1;
     // nrf24_jam_start();
     //aj_adv(1);
     init_nim();
+    advertiseEveryoneRender("ANDROID BLE SPAM");
     while (nrf24_exit) {
       advertiseAndroid();
 
@@ -510,6 +514,7 @@ return proceed;
 
       // spooferSetup();
       init_nim();
+      advertiseEveryoneRender("APPLE BLE SPAM");
       while (nrf24_exit) {
         //          executeSpam(Apple);
         advertiseAndroid();
